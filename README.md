@@ -1,1 +1,2 @@
 # LB-259_Eileen_Breguet
+In dieser Tabelle geht es um Tode, die mit Drogen in verbindung gebracht werden. Die erste Spalte der Tabelle zeigt das Alter. In der 2. die Nebenwirkungen. Die dritte Spalte zeigt das Todesdatum. In der 4ten die benutze Droge und in der 5. Spalte ist die DrogenId vorhanden. Die Nächste Spalte zeigt wie einfach die Droge zu nehmen war von einer Skala von 1 bis 10.. in der Spalte Effectiveness 
